@@ -8,7 +8,7 @@ This tool was built to simplify the way we use the standard libwebp Command Line
 3. Get the output file in "output" folder.
 
 ## KEOMA CONVERTER SOURCE CODE
-https://github.com/mucavel/keomaconverter
+https://github.com/mucavel/keomaconverter_source
 
 ## ALL ABOUT WEBP
 All about WebP
