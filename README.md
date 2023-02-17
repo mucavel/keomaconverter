@@ -4,4 +4,4 @@ This tool was built to simplify the way we use the standard libwebp Command Line
 
 
 All about WebP
-<a href="https://developers.google.com/speed/webp" target="_blank">developers.google.com/speed/webp</a>
+<a href="https://developers.google.com/speed/webp" target="blank">developers.google.com/speed/webp</a>
